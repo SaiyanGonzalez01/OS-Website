@@ -75,25 +75,6 @@ a {
 	font-family: 'Arial';
 	position: fixed; 
 	bottom: 0;
-}
-
-.image {
-	width: 800px;
-}
-
-h1 {
-  font-size: 28px;
-}
-
-h2 {
-	padding-bottom: 2px;
-	margin-bottom: 2px;
-}
-
-li {
-	padding: 2px;
-	font-size: 14px;
-}
 
 #key {
     font-size: 20pt;
