@@ -13,18 +13,6 @@ a {
 	color: orange;
 }
 
-.headtag{
-  text-shadow: 4px 4px #000000A0;
-  background-image: url("stone2.png");
-  background-repeat: repeat;
-  image-rendering: crisp-edges;
-  
-  padding-left: 7px;
-  padding-bottom: 5px;
-  
-  width: 100%;
-}
-
 .ret {
 	color: white;
 	text-decoration: none;
