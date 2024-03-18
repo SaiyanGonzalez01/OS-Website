@@ -1,7 +1,7 @@
 body {
 	
   font-family: arial;
-  background-image: url("dirt1.png");
+  background-image: url("dirt.png");
   background-repeat: repeat;
   image-rendering: crisp-edges;
   background-color: rgba(0, 0, 0, .2);
