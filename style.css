@@ -16,6 +16,11 @@ body {
  column-gap: 5px;
 }
 
+#lg  {
+float: left;    
+ margin: 0 15px 0 0;
+}
+
 img {
   max-width: 50%;
   max-height:50%;
